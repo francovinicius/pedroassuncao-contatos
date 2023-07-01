@@ -18,3 +18,9 @@
     font-size: 16px;
     
 }
+
+.btn-link:hover, .btn-link:focus, .btn-link:active {
+
+    color: #464646;
+    border: none;
+}
