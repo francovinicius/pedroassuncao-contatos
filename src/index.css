@@ -11,3 +11,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+body {
+  background-image: url('../public/assets/Background/bg-mobile.png');
+  background-repeat: no-repeat;
+  background-size: 100%;
+  font-family: 'Oswald', sans-serif;
+}

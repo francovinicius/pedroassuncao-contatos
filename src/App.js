@@ -1,9 +1,12 @@
-import Background from "./Components/Background";
+
+import Header from "./Components/Header";
+import Logo from "./Components/Logo";
 
 function App() {
   return (
     <div className="App">
-      <Background />
+      <Header />
+      <Logo />
     </div>
   );
 }
