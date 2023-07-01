@@ -1,5 +1,17 @@
+.link-container {
+    margin-top: -3rem;
+}
+
 .btn-link {
-    background-color: #fff;
     width: 75%;
     margin-bottom: 1rem;
+    
+    color: #464646;
+    background: linear-gradient(to right,#f7f7fa, #f8abab);
+
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    font-weight: 300;
+    font-size: 12px;
+    
 }
