@@ -6,10 +6,10 @@
 .btn-link {
     width: 75%;
     margin-bottom: 1rem;
-    padding: .7rem 0;
+    padding: .9rem 0;
     
     color: #464646;
-    background: linear-gradient(to right,#f7f7fa, #d4b3b3);
+    background: linear-gradient(to right,#f7f7fa, #ececbd);
     border: none;
 
     letter-spacing: 5px;
