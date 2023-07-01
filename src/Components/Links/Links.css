@@ -8,7 +8,8 @@
     margin-bottom: 1rem;
     
     color: #464646;
-    background: linear-gradient(to right,#f7f7fa, #f8abab);
+    background: linear-gradient(to right,#f7f7fa, #d4b3b3);
+    border: none;
 
     letter-spacing: 5px;
     text-transform: uppercase;
