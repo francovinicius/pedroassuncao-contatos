@@ -2,3 +2,13 @@
     margin-top: 25rem;
     width: 20rem;
 }
+
+
+@media screen and (min-width: 760px) {
+   
+    .img-logo {
+        margin-top: 39rem;
+        width: 30rem;
+    }
+    
+}
