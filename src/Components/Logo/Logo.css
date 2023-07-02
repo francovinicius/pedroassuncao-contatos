@@ -12,3 +12,31 @@
     }
     
 }
+
+@media screen and (min-width: 1024px) {
+   
+    .img-logo {
+        margin-top: 70rem;
+        width: 30rem;
+    }
+    
+}
+
+@media screen and (min-width: 1440px) {
+   
+    .img-logo {
+        margin-top: 80rem;
+        width: 30rem;
+    }
+    
+}
+
+@media screen and (min-width: 1920px) {
+   
+    .img-logo {
+        margin-top: 100rem;
+        width: 30rem;
+    }
+    
+}
+
