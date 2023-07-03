@@ -11,7 +11,7 @@
     color: #464646;
     background: linear-gradient(to right,#f7f7fa, #d4bc7d);
     border: none;
-
+    box-shadow: #eedbac 0px 0px 0px 2px, #eedbac 0px 4px 6px -1px, #eedbac 0px 1px 0px inset;
     letter-spacing: 5px;
     text-transform: uppercase;
     font-weight: 300;
@@ -19,6 +19,8 @@
     animation: fadeIntext 3s both;
     
 }
+
+
 
 .btn-link:hover, .btn-link:focus, .btn-link:active {
 
