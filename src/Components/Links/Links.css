@@ -9,6 +9,7 @@
     padding: .5rem 0;
     
     color: #464646;
+    background: linear-gradient(to right,#f7f7fa, #d4bc7d);
     border: none;
 
     box-shadow: #f1e5cd 1px 1px 10px 1px;
